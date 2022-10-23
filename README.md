@@ -27,5 +27,3 @@
   <a href="mailto:jvm.leahy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/nseilek#8622" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
- <br> [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joaoleahy&bg_color=20232a&color=fff&line=08bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/joaoleahy)
